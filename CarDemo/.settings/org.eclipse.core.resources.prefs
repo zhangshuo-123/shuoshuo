@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/customer/customer.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/information/promotion.jsp=UTF-8
+encoding//WebContent/information/promotionEdit.jsp=UTF-8
+encoding//WebContent/pinpai/insert.jsp=UTF-8
+encoding//WebContent/pinpai/pinpai.jsp=UTF-8
+encoding//WebContent/product/product.jsp=UTF-8
+encoding//src/com/hc/zs/dao/IDemioDao.java=UTF-8
+encoding//src/com/hc/zs/db/DBUtils.java=UTF-8
+encoding//src/com/hc/zs/db/dbinit.properties=UTF-8
+encoding//src/com/hc/zs/servlet/Staff/CheckCodeServlet.java=UTF-8
+encoding//src/com/hc/zs/servlet/Staff/LoginServlet.java=UTF-8
+encoding//src/com/hc/zs/servlet/Staff/ServletImage.java=GBK
+encoding/<project>=UTF-8
+encoding/src=UTF-8
